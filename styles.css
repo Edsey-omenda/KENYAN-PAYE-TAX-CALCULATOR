@@ -9,3 +9,7 @@ body{
     background-color: green;
     color:white;
 }
+
+table, th, td {
+    border: 1px solid;
+  }
