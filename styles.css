@@ -6,28 +6,29 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-#btn{
-    background-color: green;
-    color:white;
-    width:80%;
-    padding: 10px;
-    font-size: large;
+#myTax{
+    opacity:0.8;
+    background-image:url("./assets/tax.img.jpeg");
+    background-size: cover;
+    background-position: center center;
+    height:100vh;
+    justify-content: center;
 }
 
-table, th, td {
-    border: 1px solid;
-  }
+img{
+    opacity:0.1;
+}
 
-  form{
-      /* border: 1px solid blue; */
-     box-shadow: inset;
-  }
+nav{
+    display:flex;
+    justify-content: space-between;
+ }
+ nav > ul > li{
+      list-style-type: none;
+      display:inline-block;
+      padding: 10px;
+ }
 
-  .tax{
-      display: flex;
-      justify-content: space-between;
-  }
-
-  .output{
-      padding-right: 200px;
-  }
+ #btn{
+     background-color: #EC4067;
+ }
