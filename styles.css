@@ -4,6 +4,7 @@ body{
     margin: 10;
     padding: 0;
     font-family: 'Poppins', sans-serif;
+    background-color: whitesmoke;
 }
 
 #myTax{
@@ -19,6 +20,7 @@ body{
 nav{
     display:flex;
     justify-content: space-between;
+    color: black;
  }
  nav > ul > li{
       list-style-type: none;
@@ -27,10 +29,19 @@ nav{
       font-size:larger;
  }
 
- h1{
+ h1, h2{
     font-size:larger; 
  }
 
  #btn{
      background-color: #EC4067;
+ }
+
+ .trend{
+     align-items: center;
+     padding-left: 100px;
+ }
+
+ p{
+     font-size: larger;
  }
