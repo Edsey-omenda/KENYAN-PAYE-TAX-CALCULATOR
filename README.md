@@ -1,5 +1,5 @@
 KENYA INCOME TAX CALCULATOR
-![Kenya income tax system landing page](/assets/Screenshot from 2022-07-07 22-10-51.png "Tax system-landing page")
+![Kenya income tax system landing page](/home/moringa/Documents/DamJsProjects/TaxSystem/assets/Screenshot from 2022-07-07 22-10-51.png "Tax system-landing page")
 
 ![Kenya income tax system calculator](/assets/Screenshot from 2022-07-07 22-11-24.png "Tax system -calculator")
 
