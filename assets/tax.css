@@ -1,34 +1,39 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
 
-body{
-    margin: 10;
-    padding: 0;
-    font-family: 'Poppins', sans-serif;
-    background-color: whitesmoke;
-}
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
 
-#btn{
-    background-color: green;
-    color:white;
-    width:80%;
-    padding: 10px;
-    font-size: large;
-}
-
-table, th, td {
-    border: 1px solid;
+  body{
+      margin: 10;
+      padding: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: whitesmoke;
   }
-
-  form{
-      /* border: 1px solid blue; */
-     box-shadow: inset;
+  
+  #btn{
+      background-color: green;
+      color:white;
+      width:30%;
+      padding: 10px;
+      font-size: large;
   }
+  
+  table, th, td {
+      border: 1px solid;
+    }
+  
+    form{
+        /* border: 1px solid blue; */
+       box-shadow: inset;
+    }
 
-  .tax{
-      display: flex;
-      justify-content: space-between;
-  }
+    h2{
+      text-align: center;
+    }
+    /* .state-p{
+      color: red;
+      stroke: white; 
+      fill: white;
+    } */
 
-  .output{
-      padding-right: 200px;
-  }
+    .col-6{
+      padding-left :10px;
+    }
