@@ -1,7 +1,7 @@
 KENYA INCOME TAX CALCULATOR
-![Kenya income tax system landing page](https://user-images.githubusercontent.com/104456561/177859157-1afd7743-4ea0-48dd-bca3-af061c6db1d5.png"Kenya income tax system landing page")
+![Kenya income tax system landing page](https://user-images.githubusercontent.com/104456561/177859157-1afd7743-4ea0-48dd-bca3-af061c6db1d5.png)
 
-![Kenya income tax system calculator](https://user-images.githubusercontent.com/104456561/177859821-64100066-4097-473f-b29f-84752f8f4cfb.png"Kenya income tax system calculator")
+![Kenya income tax system calculator](https://user-images.githubusercontent.com/104456561/177859821-64100066-4097-473f-b29f-84752f8f4cfb.png)
 
 
 
