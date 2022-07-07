@@ -1,4 +1,9 @@
 KENYA INCOME TAX CALCULATOR
+![Kenya income tax system landing page](/assets/Screenshot from 2022-07-07 22-10-51.png "Tax system-landing page")
+
+![Kenya income tax system calculator](/assets/Screenshot from 2022-07-07 22-11-24.png "Tax system -calculator")
+
+
 
 This is an online income tax system that provides a landing page with simple steps that guide a user on how to use the system.
 Once the user has read through the instructions, the user can then toggle the nav and click on the start button to access the online calculator.
